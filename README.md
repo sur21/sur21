@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/ujjwalsuryansh" target="blank"><img src="https://img.shields.io/twitter/follow/ujjwalsuryansh?logo=twitter&style=for-the-badge" alt="ujjwalsuryansh" /></a> </p>
 
-- 🔭 I’m currently working on **End-to End ML project with MLflow**
+- 🔭 I’m currently working on **Bitcoin -Prediction Dataset Using Sentiment Analysis + 100 Days DSA Problems Challenge**
 
 - 👨‍💻 All of my projects are available at [https://sur21portfolio.netlify.app/](https://sur21portfolio.netlify.app/)
 
