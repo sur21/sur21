@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **Bitcoin -Prediction Dataset Using Sentiment Analysis + 100 Days DSA Problems Challenge**
 
-- 👨‍💻 All of my projects are available at [https://sur21portfolio.netlify.app/](https://sur21portfolio.netlify.app/)
+- 👨‍💻 My Portfolio Website [https://sur21portfolio.netlify.app/](https://sur21portfolio.netlify.app/)
 
 - 📫 How to reach me **suryansh21ujjwal@gmail.com**
 
