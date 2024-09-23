@@ -1,4 +1,4 @@
-<h3 align="center">Passionate Front-end Developer ,problem solver and great in Machine Learning things including deployment and training the datasets.</h3>
+<h3 align="center">Passionate Software Developer | Front-End Engineer | Problem Solver | Machine Learning Practitioner.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sur21&label=Profile%20views&color=0e75b6&style=flat" alt="sur21" /> </p>
 
