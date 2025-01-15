@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/ujjwalsuryansh" target="blank"><img src="https://img.shields.io/twitter/follow/ujjwalsuryansh?logo=twitter&style=for-the-badge" alt="ujjwalsuryansh" /></a> </p>
 
-- 🔭 I’m currently working on **End To End Generative AI On AWS Using AWS Bedrock And AWS Lambda**
+- 🔭 I’m currently working on **SmartLearn**
 
 - 👨‍💻 My Portfolio Website [https://sur21portfolio.netlify.app/](https://sur21portfolio.netlify.app/)
 
