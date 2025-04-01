@@ -57,10 +57,6 @@ I'm a passionate **Software Developer** with expertise in **Front-End Developmen
 
 ---
 
-## 📈 GitHub Activity Graph
-<p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=sur21&theme=react-dark" alt="GitHub Activity Graph" />
-</p>
 
 ---
 
